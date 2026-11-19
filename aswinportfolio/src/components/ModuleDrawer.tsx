@@ -456,8 +456,8 @@ export function ModuleDrawer({
                 </p>
                 <div className="flex items-center gap-2">
                   <a
-                    href="/Aswin_P_Resume.pdf"
-                    download="Aswin_P_Resume.pdf"
+                    href="/Aswin_P.pdf"
+                    download="Aswin_P.pdf"
                     className="inline-flex items-center gap-2 rounded-lg bg-[#E5A94C] px-4 py-2 text-xs font-semibold text-[#070A0F] whitespace-nowrap shrink-0 transition-colors duration-150 hover:bg-[#F0BA65]"
                   >
                     <Download className="h-3.5 w-3.5" aria-hidden="true" />
