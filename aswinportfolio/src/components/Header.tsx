@@ -98,8 +98,8 @@ export function Header({
           {view === 'landing' ? (
             <>
               <a
-                href="/Aswin_P_Resume.pdf"
-                download="Aswin_P_Resume.pdf"
+                href="/Aswin_P.pdf"
+                download="Aswin_P.pdf"
                 className="inline-flex items-center gap-1.5 rounded-lg border border-white/15 bg-[#111722] px-3.5 py-2 text-xs font-semibold text-[#F4F7FB] whitespace-nowrap shrink-0 transition-colors duration-150 hover:border-[#E5A94C]/60 hover:text-[#E5A94C] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#E5A94C]"
               >
                 <Download className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
